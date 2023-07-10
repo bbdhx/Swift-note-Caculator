@@ -3,7 +3,7 @@ something about Swift
 
 This is a notebook with calculator;  //这是一个带有计算器的笔记本软件;
 
-introdunction：
+##introdunction：
 
 1.
 
@@ -11,7 +11,7 @@ introdunction：
 
 ...loading...
 
-include：
+##include：
 
 1.background color;  //
 
@@ -25,4 +25,10 @@ include：
 
 more and more...loading...
 
+##picture
+1.
+
+2.
+
+...loading...
 
