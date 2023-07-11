@@ -32,9 +32,9 @@ more and more...loading...
 
 
 ## picture
-1.
+1. ![Functional Framework](/illustration/Framework.png "Functional Framework")
 
-2.
+2. ![Main Interface](/illustration/PictureAndTextbox.jpeg "Picture And Textbox")
 
 ...loading...
 
