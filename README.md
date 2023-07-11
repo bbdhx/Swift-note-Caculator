@@ -18,9 +18,13 @@ This is a notebook with calculator;  //这是一个带有计算器的笔记本�
 
 2.pen;  //
 
-3.photo;  //
+3.photo;  //  
+    Support for inserting pictures anywhere.  
+    Support arbitrary movement of pictures.
 
-4.text;  //
+4.text;  //  
+    Support for inserting text boxes anywhere.  
+    Support arbitrary movement of text boxes.
 
 5.calculator；  //
 
