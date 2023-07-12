@@ -30,11 +30,17 @@ This is a notebook with calculator;  //这是一个带有计算器的笔记本�
 
 more and more...loading...
 
+[//]: # (哈哈我是注释，不会在浏览器中显示。)
 
-## picture
-1. ![Functional Framework](/illustration/Framework.png=50% "Functional Framework")
 
-2. ![Main Interface](/illustration/PictureAndTextbox.jpeg "Picture And Textbox")
+## picture  
+<!-- 1. ![Functional Framework](/illustration/Framework.png "Functional Framework") -->
+### 1. Framework
+   <img src="/illustration/Framework.png" alt="Framework" title="Framework" width=50%>
+
+<!-- 2. ![Main Interface](/illustration/PictureAndTextbox.jpeg "Picture And Textbox") -->
+### 2. Picture and Textbox
+   <img src="/illustration/PictureAndTextbox.jpeg" alt="PictureAndTextbox" title="PictureAndTextbox" width=50%>
 
 ...loading...
 
