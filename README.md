@@ -1,11 +1,11 @@
 # Swift-notebook&calculator
 
 ## introdunction：
-- 1. This is a notebook with a calculator.
+- This is a notebook with a calculator.
 
-- 2. This is a notebook with a function plotter.
+- This is a notebook with a function plotter.
 
-- 3. You can set the color of the manuscript at will.
+- You can set the color of the manuscript at will.
 
 ...loading...
 
