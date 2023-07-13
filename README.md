@@ -1,13 +1,11 @@
 # Swift-notebook&calculator
-something about Swift
-
-This is a notebook with calculator;  //这是一个带有计算器的笔记本软件;
 
 ## introdunction：
+- 1. This is a notebook with a calculator.
 
-1.
+- 2. This is a notebook with a function plotter.
 
-2.
+- 3. You can set the color of the manuscript at will.
 
 ...loading...
 
